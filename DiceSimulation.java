@@ -11,6 +11,8 @@ public class DiceSimulation
    public static void main(String[] args)
    {
       final int NUMBER = 10000;  // Number of dice rolls
+			
+			//This is a change
 
       // A random number generator used in
       // simulating the rolling of dice
